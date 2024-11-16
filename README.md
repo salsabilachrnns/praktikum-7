@@ -57,4 +57,7 @@ Pengguna diberikan pilihan untuk melakukan operasi berikut:
 
 ## Contoh Interaksi
 
-Berikut adalah contoh interaksi pengguna dengan program:
+Berikut adalah tampilan dari perintah pengguna dengan program:
+
+![hasil akhir](https://github.com/user-attachments/assets/7bac1052-dbe8-47fb-b8e2-37b769cb0a29)
+
