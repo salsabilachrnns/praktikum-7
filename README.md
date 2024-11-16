@@ -17,9 +17,9 @@ Program ini dibuat untuk mengelola dan menampilkan daftar nilai mahasiswa dengan
   - `nilai_uts`: Nilai UTS mahasiswa.
   - `nilai_uas`: Nilai UAS mahasiswa.
 - **Rumus**:
-  \[
-  \text{Akhir} = (\text{Tugas} \times 0.3) + (\text{UTS} \times 0.35) + (\text{UAS} \times 0.35)
-  \]
+  
+  ![rumus tugas akhir](https://github.com/user-attachments/assets/3608f9b9-f2a7-4f42-bd7b-a6bbd58bf48a)
+
 - **Return**: Mengembalikan nilai akhir yang telah dihitung.
 
 ## Struktur Data
