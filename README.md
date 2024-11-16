@@ -61,3 +61,4 @@ Berikut adalah tampilan dari perintah pengguna dengan program:
 
 ![hasil akhir](https://github.com/user-attachments/assets/7bac1052-dbe8-47fb-b8e2-37b769cb0a29)
 
+![flowchart](https://github.com/user-attachments/assets/387619da-64f4-413f-a1f0-288079ac0f17)
