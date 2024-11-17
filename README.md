@@ -63,7 +63,7 @@ Berikut adalah tampilan dari perintah pengguna dengan program:
 
 ## FLOWCHART 
 
-![flowchart](https://github.com/user-attachments/assets/387619da-64f4-413f-a1f0-288079ac0f17)
+![flow chart](https://github.com/user-attachments/assets/f8b6be90-46b9-4708-ba94-d1cc1eb30ba4)
 
 1. Start: Titik awal program.
 2. Inisialisasi Dictionary data_mahasiswa: Membuat dictionary kosong untuk menyimpan data mahasiswa.
